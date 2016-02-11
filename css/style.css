@@ -1,0 +1,79 @@
+html,body{
+    margin:0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    box-sizing: border-box;
+    font-size:62.5% 20px;
+    
+    
+}
+header{margin: 0;
+    padding: 0;
+    background-color: brown;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    border: solid 10px green;
+    }
+main{
+    width: 100%;
+    height: 80%;
+    background-color: yellowgreen;
+    box-sizing: border-box;
+    text-align: center;
+    
+    }
+#one{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: calc(100%/4);
+    height: 10%;
+    background-color: yellow;
+    border: solid 5px red;
+    
+}
+#two{
+    margin: 0;
+    padding:0;
+    float:left;
+    width:calc(100%/4);
+    height:10%;
+    background-color: pink;
+    border: solid 5px white;
+    
+    
+}
+#three{
+    margin:;
+    padding:0;
+    float:left;
+    width: calc(100%/4);
+    height: 10%;
+    background-color: seagreen;
+    border: solid 5px blue;
+        
+}#four{
+    margin:0;
+    padding:0;
+    height:10%;
+    background-color: orange;
+    border:solid 5px purple;
+    
+        
+    
+}
+
+
+
+
+
+
+ 
